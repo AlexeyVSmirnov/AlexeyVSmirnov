@@ -44,4 +44,4 @@
 |----------------|----------------|-----|
 |[Классификация документов по их заголовкам](https://github.com/AlexeyVSmirnov/documents-classification)|Небольшая демонстрационная часть проекта обработки финансовых документов|python, pandas, numpy, scikit-learn|
 |Соревнования Kaggle:|
-|[Simple Housing Price Prediction](https://github.com/AlexeyVSmirnov/documents-classification)|Небольшое соревнование по прогнозированию цен продажи домов. Результат: 2-е место|python, pandas, numpy, scikit-learn, matplotlib, seaborn, catboost|
+|[Simple Housing Price Prediction](https://github.com/AlexeyVSmirnov/kaggle/tree/main/simple_housing_price_prediction)|Небольшое соревнование по прогнозированию цен продажи домов. Результат: 2-е место|python, pandas, numpy, scikit-learn, matplotlib, seaborn, catboost|
