@@ -40,5 +40,8 @@
 
 
 ### Проекты:
-|Название проекта| Описание проекта| Стек|
-|----------------|-----------------|-----|
+|Название проекта|Описание проекта| Стек|
+|----------------|----------------|-----|
+|[Классификация документов по их заголовкам](https://github.com/AlexeyVSmirnov/documents-classification)|Небольшая демонстрационная часть проекта обработки финансовых документов|python, pandas, numpy, scikit-learn|
+|Соревнования Kaggle:|
+|[Simple Housing Price Prediction](https://github.com/AlexeyVSmirnov/documents-classification)|Небольшое соревнование по прогнозированию цен продажи домов. Результат: 2-е место|python, pandas, numpy, scikit-learn, matplotlib, seaborn, catboost|
