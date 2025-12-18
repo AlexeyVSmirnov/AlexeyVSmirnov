@@ -48,5 +48,6 @@
 |----------------|----------------|-----|
 |[Классификация документов по их заголовкам](https://github.com/AlexeyVSmirnov/documents-classification)|Небольшая демонстрационная часть проекта обработки финансовых документов|python, pandas, numpy, scikit-learn, nltk, mystem|
 |[Рекомендательная система сообщений в соц. сети](https://github.com/AlexeyVSmirnov/social-network-posts-recommendation-system)|Веб-сервис, предлагающий список рекомендованных сообщений для выбранного пользователя соц. сети|python, pandas, numpy, scikit-learn, fastapi, uvicorn, catboost, gensim, sqlalchemy, postgresql, sql|
-|Соревнования Kaggle:|
-|[Simple Housing Price Prediction](https://github.com/AlexeyVSmirnov/kaggle/tree/main/simple_housing_price_prediction)|Небольшое соревнование по прогнозированию цен продажи домов. Результат: 2-е место|python, pandas, numpy, scikit-learn, matplotlib, seaborn, catboost|
+||
+<!--|Соревнования Kaggle:|
+|[Simple Housing Price Prediction](https://github.com/AlexeyVSmirnov/kaggle/tree/main/simple_housing_price_prediction)|Небольшое соревнование по прогнозированию цен продажи домов. Результат: 2-е место|python, pandas, numpy, scikit-learn, matplotlib, seaborn, catboost| -->
